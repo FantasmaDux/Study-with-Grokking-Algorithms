@@ -1,2 +1,2 @@
 # Study-with-Grokking-Algorithms
-Learn how to write algorithms
+Learn how to write algorithms and use git
